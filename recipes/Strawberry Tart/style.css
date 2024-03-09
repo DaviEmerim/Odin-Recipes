@@ -1,0 +1,17 @@
+.Image {
+    height:auto;
+    width:400px;
+}
+
+.Button {
+    background-color:red;
+}
+
+.Heading {
+    font-family: "Courier New", Monospace;
+    color:white;
+}
+
+.Title {
+    font-family: "Courier New", Monospace;
+}
