@@ -1,3 +1,9 @@
+.Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .Button {
     background-color:rgb(6, 247, 255);
 }
